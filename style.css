@@ -1,0 +1,32 @@
+h1{
+    display: flex;
+    justify-content: center;
+
+}
+
+.timer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;   
+     
+}
+
+.display{
+    background: rgb(27, 68, 180);
+    padding: 20px;
+    font-size: 30px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    color: azure;
+}
+
+#start_btn, #pouse_btn, #reset_btn{
+    margin: 2px;
+}
+
+
+
+
+
+
